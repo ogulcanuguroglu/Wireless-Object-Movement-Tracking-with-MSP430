@@ -11,7 +11,7 @@ The last node takes encrypted sensor information through NRF24 and converts the 
 
 PC side provides 3D object and its movements according to sensor data. Processing IDE was used for visualization. It is programmed via Java language.
 
-
+Project Video Link: https://www.youtube.com/watch?v=OB8uu2KnHwE
 
 
 
