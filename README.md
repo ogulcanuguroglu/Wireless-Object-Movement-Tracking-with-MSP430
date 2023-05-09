@@ -7,7 +7,7 @@ The sensor node has an accelerometer and gyroscope module. This module communica
 
 The decryption node performs the decryption algorithm and it also includes NRF24 wireless module.
 
-The last node takes encrypted sensor information through NRF24 and converts the UART message format. The format has 3-axis sensor information and CRC for error checking.
+The last node takes encrypted sensor information through NRF24 and converts the UART message format.
 
 PC side provides 3D object and its movements according to sensor data. Processing IDE was used for visualization. It is programmed via Java language.
 
